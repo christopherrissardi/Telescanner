@@ -2,6 +2,7 @@
 
 Ferramenta criada com o intúito de verificar hosts ativos na rede.
 
+![aaaaaaa](https://github.com/user-attachments/assets/514ecfef-12d9-41e5-8218-4984aec43e39)
 
 
 A ferramenta faz a verificação de hosts (clientes) ativos na rede e mostra quais são os endereços IPs de cada host que está ativo. Essa verificação é feita através de `ping`, ou seja, através do protocolo de mensagens `ICMP`. O script em si é simples mas extremamente útil, podendo ser ajustado facilmente e podendo ajudar muito em um pentest interno.
