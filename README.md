@@ -1,4 +1,4 @@
-# 🛰️ HOSTSCAN 
+# 🔭 HOSTSCAN 
 
 Ferramenta criada com o intúito de verificar hosts ativos na rede.
 
@@ -7,7 +7,7 @@ Ferramenta criada com o intúito de verificar hosts ativos na rede.
 
 A ferramenta faz a verificação de hosts (clientes) ativos na rede e mostra quais são os endereços IPs de cada host que está ativo. Essa verificação é feita através de `ping`, ou seja, através do protocolo de mensagens `ICMP`. O script em si é simples mas extremamente útil, podendo ser ajustado facilmente e podendo ajudar muito em um pentest interno.
 
-### Atualização
+### ⚙️ Atualização
 
 Recentemente atualizei o script e ele está infinitamente melhor em relação a versão anterior, tanto nas funcionalidades quanto no visual bonito, simples e didático.
 Antes a ferramenta demorava cerca de 30 minutos para verificar todos os hosts ativos, agora não demora nem 10 segundos! Deixarei a nota de atualização abaixo.
@@ -67,4 +67,4 @@ Os endereços IPs não retornados simplesmente não foi encontrados pelo protoco
 ## 👁️‍🗨️ Observações finais
 
 Caso queira criar um script próprio, fique a vontade para modificar e estudar. 
-Se possível deixe os créditos, ficarei extremamente feliz :).
+Se possível deixe os créditos, ficarei extremamente feliz 😁.
