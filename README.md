@@ -59,7 +59,7 @@ sudo chmod +x ./telescanner.sh
 ./telescanner.sh 10.0.0.1
 ```
 
-Observação: não precisa passar mais passar o range de IP, agora somente é necessário o IP do Gateway ou até mesmo do dispositivo em que você esteja utilizando.
+Observação: não precisa mais passar o range de IP, agora somente é necessário o IP do Gateway ou até mesmo do dispositivo em que você esteja utilizando.
 
 Os endereços IPs não retornados simplesmente não foi encontrados pelo protocolo.
 
