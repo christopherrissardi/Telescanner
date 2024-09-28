@@ -13,16 +13,16 @@ Recentemente atualizei o script e ele está infinitamente melhor em relação a 
 Antes a ferramenta demorava cerca de 30 minutos para verificar todos os hosts ativos, agora não demora nem 10 segundos! Deixarei a nota de atualização abaixo.
 
 1. Melhorias no código fonte
-    - Acelerado o tempo de respostas na procura por hosts ativos no protocolo `ICMP`
-    - Implementação de procura através do protocolo `ARP`
+    - Acelerado o tempo de respostas na procura por hosts ativos no protocolo `ICMP`.
+    - Implementação de procura através do protocolo `ARP`.
     - Implementação de MACVendors para os endereços físicos encontrados pela ferramenta.
     - Correções de Bugs e falhas de falso positivo no código fonte.
     - Ajuste de visual e alteração do banner principal.
-    - Correções de erros de delimitadores nas consultas
+    - Correções de erros de delimitadores nas consultas.
     - Melhores tecnologias adicionadas como o `fping`, protocolo mais rápido de consultas.
 2. Melhorias na estética
-    - O visual foi ajustado incluindo cores para deixar a ferramenta mais bonita e completa
-    - O nome foi alterado. Não é mais hostscan e a partir de agora passa a ser Telescanner
+    - O visual foi ajustado incluindo cores para deixar a ferramenta mais bonita e completa.
+    - O nome foi alterado. Não é mais hostscan e a partir de agora passa a ser Telescanner.
 
 Com essas melhorias, facilita em 1000% o uso em pentest interno já que os hosts serão encontrados em alguns minutos (CLARO, DEPENDE TAMBÉM DA PROPORÇÃO DA REDE/EMPRESA EM QUESTÃO).
 
